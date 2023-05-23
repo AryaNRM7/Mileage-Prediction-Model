@@ -1,4 +1,3 @@
-# My-Learning-At-YBI-foundation
+# Mileage Precition Model using Python
 
-I am Learning at YBI foundation
-Data Science
+This model predicts the model based on the given Car specifications.
